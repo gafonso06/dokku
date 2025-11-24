@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdokku=globalThis.webpackChunkdokku||[]).push([[293],{6800:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/dokkus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
